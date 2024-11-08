@@ -2,8 +2,8 @@
 #include <WebSocketsClient.h>
 #include <FastLED.h>
 
-const char* ssid = "UI24 L&D Sound";
-const char* password = "olhzwieber";
+const char* ssid = "ssid";
+const char* password = "pass";
 const char* ui24_ip = "10.10.2.2"; // Replace with your UI24's IP address
 
 // Global arrays for mic and autotune channels
